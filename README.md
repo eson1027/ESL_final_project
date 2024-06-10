@@ -1,5 +1,5 @@
 # Final_project
-- In this homework, you should download
+- In this final_project, you should download
 ```shell
 git clone https://gitlab.larc-nthu.net/ee6470_TA/sobel_riscv_vp.git
 git clone https://github.com/eson1027/ESL_final_project
