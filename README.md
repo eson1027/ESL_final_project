@@ -2,7 +2,7 @@
 - In this homework, you should download
 ```shell
 git clone https://gitlab.larc-nthu.net/ee6470_TA/sobel_riscv_vp.git
-git clone [https://github.com/eson1027/ESL_HW4](https://github.com/eson1027/ESL_final_project)
+git clone https://github.com/eson1027/ESL_final_project
 ```
 ## 1.** (50 pt) Implement HLS accelerator PEs**
 ```shell
@@ -10,8 +10,6 @@ cd HLS
 cd status
 make sim_V_BASIC
 ```
-
-
 
 ## 2. ** (50 pt) Implement multiple accelerator PEs with a multi-core riscv-vp platform**
 
